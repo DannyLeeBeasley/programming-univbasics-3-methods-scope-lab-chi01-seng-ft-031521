@@ -8,5 +8,15 @@ def toadstool
   puts status
 end
 
-mario 
-toadstool 
+def link 
+  partner = "It's Dangerous To Go Alone! Take This."
+  puts partner
+end
+
+def all_phrases
+  mario
+  toadstool
+  link
+end
+
+all_phrases
