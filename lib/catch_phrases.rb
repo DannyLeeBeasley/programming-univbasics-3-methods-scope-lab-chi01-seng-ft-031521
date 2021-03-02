@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link 
-  partner = "It's Dangerous To Go Alone! Take This."
+  assistance = "It's Dangerous To Go Alone! Take This."
   puts partner
 end
 
