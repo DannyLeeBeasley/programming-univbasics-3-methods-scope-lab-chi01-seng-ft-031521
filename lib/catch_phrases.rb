@@ -10,7 +10,7 @@ end
 
 def link 
   assistance = "It's Dangerous To Go Alone! Take This."
-  puts partner
+  puts assistance
 end
 
 def all_phrases
